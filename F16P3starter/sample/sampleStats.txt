@@ -1,0 +1,28 @@
+------  STATS ------
+File name: sample\sampleBlock1.bin
+Cache Hits: 58498
+Cache Misses: 1
+Disk Reads: 1
+Disk Writes: 1
+Time to sort: 14
+------  STATS ------
+File name: sample\sampleBlock3.bin
+Cache Hits: 204786
+Cache Misses: 3
+Disk Reads: 3
+Disk Writes: 3
+Time to sort: 24
+------  STATS ------
+File name: sample\sampleBlock10.bin
+Cache Hits: 770650
+Cache Misses: 9639
+Disk Reads: 9639
+Disk Writes: 9639
+Time to sort: 201
+------  STATS ------
+File name: sample\sampleBlock50.bin
+Cache Hits: 4365530
+Cache Misses: 149637
+Disk Reads: 149637
+Disk Writes: 149637
+Time to sort: 2287
